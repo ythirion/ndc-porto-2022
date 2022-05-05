@@ -8,7 +8,6 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [The grand unified theory of Clean Architecture and Test Pyramid](pyramid-clean-architecture.md) by [Guilherme Ferreira](https://twitter.com/gsferreira)
 - [Supporting your peers' growth as a tech lead
 ](supporting-your-peers-growth.md) by [Alon Kiriati](https://twitter.com/akiriati)
-- [Event sourcing - What could possibly go wrong - Andrzej Ludwikowski 
-](supporting-your-peers-growth.md) by [Alon Kiriati](https://twitter.com/akiriati)
+- [Event Sourcing - what could possibly go wrong?](es-go-wrong.md) by [Andrzej Ludwikowski](https://twitter.com/aludwikowski)
 
 ![NDC Porto](img/logo.png)
