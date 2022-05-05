@@ -37,8 +37,12 @@ components:
 ```
 
 ![async api result](img/managing-event-driven-architectures/13.png)
-![spotify backstage](img/managing-event-driven-architectures/10.png)
-- Developer catalog @spotify
+
+## Developer catalog @spotify
+![spotify backstage](img/managing-event-driven-architectures/backstage1.png)
+![spotify backstage](img/managing-event-driven-architectures/backstage2.png)
+![spotify backstage](img/managing-event-driven-architectures/plugins.png)
+
 
 ![cupid](img/managing-event-driven-architectures/11.png)
 ![event catalog](img/managing-event-driven-architectures/12.png)
