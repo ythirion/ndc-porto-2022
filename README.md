@@ -6,3 +6,5 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Managing Event Driven Architectures](managing-event-driven-architectures.md) by [Ian Cooper](https://twitter.com/ICooper)
 - [Domain-Driven Refactoring](ddd-refactoring.md) by [Jimmy Bogard](https://jimmybogard.com/)
 - [The grand unified theory of Clean Architecture and Test Pyramid](pyramid-clean-architecture.md) by [Guilherme Ferreira](https://twitter.com/gsferreira)
+
+![NDC Porto](img/logo.png)
