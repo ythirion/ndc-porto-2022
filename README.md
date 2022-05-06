@@ -13,6 +13,7 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Leadership lessons from the Agile Manifesto](leadership-lessons-from-agile-manifesto.md) by [Anjuan Simmons](https://twitter.com/anjuan)
 - [Goodbye controllers, hello Minimal APIs](goodbye-controllers.md) by [Nick Chapsas](https://twitter.com/nickchapsas)
 - [It’s easy to create a good looking product, but what about a useful one?](create-useful-product.md) by [Eleftheria Batsou](https://twitter.com/BatsouElef)
+- [Actors can rule your DDD world](actors-in-ddd.md) by [Hannes Lowette](https://twitter.com/hannes_lowette)
 
 # Key Takeaways
 - Be a `mentor` and a `mentee` :
@@ -27,5 +28,6 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - Try out `Roslyn Analyzers` to help developers when they use a common library
 - Read `The 21 Irrefutable Laws of Leadership` -> Build `influence`
 - Create a Kata `refactor to Minimal APIs` ?
+- Play with `Akka .NET` for "real"
 
 ![NDC Porto](img/logo.png)
