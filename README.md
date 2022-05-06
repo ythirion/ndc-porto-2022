@@ -14,20 +14,22 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Goodbye controllers, hello Minimal APIs](goodbye-controllers.md) by [Nick Chapsas](https://twitter.com/nickchapsas)
 - [It’s easy to create a good looking product, but what about a useful one?](create-useful-product.md) by [Eleftheria Batsou](https://twitter.com/BatsouElef)
 - [Actors can rule your DDD world](actors-in-ddd.md) by [Hannes Lowette](https://twitter.com/hannes_lowette)
+- [Advanced Bounded Context Design With The Bounded Context Canvas](bounded-context-canvas.md) by [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__) and [Nick Tune](https://twitter.com/ntcoding)
 
-# Key Takeaways
-- Be a `mentor` and a `mentee` :
+# Key Takeaways / To do list
+- [ ] Be a `mentor` and a `mentee` :
     - `You miss every shot you dont take`
-- Experiment [Backstage](https://backstage.io/)
-- Read the book `Refactoring to Patterns`
-- Adapt the [Domain Refactoring kata](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
-- Clean Architecture : Driving vs Driven actors
+- [ ] Experiment [Backstage](https://backstage.io/)
+- [ ] Read the book `Refactoring to Patterns`
+- [ ] Adapt the [Domain Refactoring kata](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
+- [ ] Clean Architecture : Driving vs Driven actors
     - `Test Desiderata` more deep than `FIRST` principles
     - Adapt Valentina's [Clean Architecture kata](https://github.com/valentinacupac/banking-kata-dotnet)
-- `On-boarding team` idea : people who helps / trains other when new joiners come in the company
-- Try out `Roslyn Analyzers` to help developers when they use a common library
-- Read `The 21 Irrefutable Laws of Leadership` -> Build `influence`
-- Create a Kata `refactor to Minimal APIs` ?
-- Play with `Akka .NET` for "real"
+- [ ] `On-boarding team` idea : people who helps / trains other when new joiners come in the company
+- [ ] Try out `Roslyn Analyzers` to help developers when they use a common library
+- [ ] Read `The 21 Irrefutable Laws of Leadership` -> Build `influence`
+- [ ] Create a Kata `refactor to Minimal APIs` ?
+- [ ] Play with `Akka .NET` for "real"
+- [ ] Facilitate a Bounded Context Canvas workshop
 
 ![NDC Porto](img/logo.png)
