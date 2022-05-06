@@ -10,6 +10,7 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 ](supporting-your-peers-growth.md) by [Alon Kiriati](https://twitter.com/akiriati)
 - [Event Sourcing - what could possibly go wrong?](es-go-wrong.md) by [Andrzej Ludwikowski](https://twitter.com/aludwikowski)
 - [Automate yourself out of a job with Roslyn](roslyn.md) by [Mark Rendle](https://twitter.com/markrendle)
+- [Leadership lessons from the Agile Manifesto](leadership-lessons-from-agile-manifesto.md) by [Anjuan Simmons](https://twitter.com/anjuan)
 
 # Key Takeaways
 - Be a `mentor` and a `mentee` :
@@ -22,5 +23,6 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
     - Adapt Valentina's [Clean Architecture kata](https://github.com/valentinacupac/banking-kata-dotnet)
 - `On-boarding team` idea : people who helps / trains other when new joiners come in the company
 - Try out `Roslyn Analyzers` to help developers when they use a common library
+- Read `The 21 Irrefutable Laws of Leadership` -> Build `influence` 
 
 ![NDC Porto](img/logo.png)
