@@ -42,6 +42,7 @@ builder.Services.AddSingleton<ICustomerService, CustomerService>();
 var app = builder.Build();
 
 app.UseMiddleware<ValidationExceptionMiddleware>();
+// Uses FastEndpoints library
 app.UseFastEndpoints(x =>
 {
     x.ErrorResponseBuilder = (failures, _) =>
@@ -67,7 +68,8 @@ app.Run();
 ![code orga](img/goodbye-controllers/1.png)
 
 - Example of `Endpoint`
-    - It enable to better split our code
+    - It enables to better split our code
+    - Library doucmentation : https://fast-endpoints.com/
     - Have a better constructor injection logic
         - Pass only what is needed for the given Endpoint
 
