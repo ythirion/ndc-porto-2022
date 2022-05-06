@@ -11,4 +11,16 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Event Sourcing - what could possibly go wrong?](es-go-wrong.md) by [Andrzej Ludwikowski](https://twitter.com/aludwikowski)
 - [Automate yourself out of a job with Roslyn](roslyn.md) by [Mark Rendle](https://twitter.com/markrendle)
 
+# Key Takeaways
+- Be a `mentor` and a `mentee` :
+    - `You miss every shot you dont take`
+- Experiment [Backstage](https://backstage.io/)
+- Read the book `Refactoring to Patterns`
+- Adapt the [Domain Refactoring kata](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
+- Clean Architecture : Driving vs Driven actors
+    - `Test Desiderata` more deep than `FIRST` principles
+    - Adapt Valentina's [Clean Architecture kata](https://github.com/valentinacupac/banking-kata-dotnet)
+- `On-boarding team` idea : people who helps / trains other when new joiners come in the company
+- Try out `Roslyn Analyzers` to help developers when they use a common library
+
 ![NDC Porto](img/logo.png)
