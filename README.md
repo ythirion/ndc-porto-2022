@@ -12,6 +12,7 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Automate yourself out of a job with Roslyn](roslyn.md) by [Mark Rendle](https://twitter.com/markrendle)
 - [Leadership lessons from the Agile Manifesto](leadership-lessons-from-agile-manifesto.md) by [Anjuan Simmons](https://twitter.com/anjuan)
 - [Goodbye controllers, hello Minimal APIs](goodbye-controllers.md) by [Nick Chapsas](https://twitter.com/nickchapsas)
+- [It’s easy to create a good looking product, but what about a useful one?](create-useful-product.md) by [Eleftheria Batsou](https://twitter.com/BatsouElef)
 
 # Key Takeaways
 - Be a `mentor` and a `mentee` :
