@@ -30,6 +30,6 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [ ] Read `The 21 Irrefutable Laws of Leadership` -> Build `influence`
 - [ ] Create a Kata `refactor to Minimal APIs` ?
 - [ ] Play with `Akka .NET` for "real"
-- [ ] Facilitate a Bounded Context Canvas workshop
+- [ ] Facilitate a [Bounded Context Canvas workshop](https://miro.com/app/board/uXjVODGps0A=/)
 
 ![NDC Porto](img/logo.png)
