@@ -9,5 +9,6 @@ Here are my notes from the [NCD Porto Conference](https://ndcporto.com/) from Ap
 - [Supporting your peers' growth as a tech lead
 ](supporting-your-peers-growth.md) by [Alon Kiriati](https://twitter.com/akiriati)
 - [Event Sourcing - what could possibly go wrong?](es-go-wrong.md) by [Andrzej Ludwikowski](https://twitter.com/aludwikowski)
+- [Automate yourself out of a job with Roslyn](roslyn.md) by [Mark Rendle](https://twitter.com/markrendle)
 
 ![NDC Porto](img/logo.png)
