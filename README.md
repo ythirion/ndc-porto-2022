@@ -1,6 +1,4 @@
 # NDC Porto 2022
-[![Contributors](https://github.com/ythirion/ndc-porto-2022/actions/workflows/contributors.yml/badge.svg)](https://github.com/ythirion/ndc-porto-2022/actions/workflows/contributors.yml)
-
 Here are [Guillaume Faas](https://github.com/Tr00d/) and I notes from the [NCD Porto Conference](https://ndcporto.com/) from April 2022
 
 - [Keynote: Building Teams Through Systems Thinking and Stories](mentorship-sponsorship.md) by [Scott Hanselman](https://www.hanselman.com/)
