@@ -7,6 +7,9 @@ In this talk I will show you to all the things you need to know if you want to b
 
 An elementary knowledge of DDD principles is required to attend this session.
 
+## Domain Driven Design
+![Actor System](img/actors-in-ddd/ddd-nutshell.jpg)
+
 ## Sending beer is tricky
 - What I want :
    - CQRS / ES
@@ -81,6 +84,9 @@ An elementary knowledge of DDD principles is required to attend this session.
 
 
 ## Resources
+![learning](img/actors-in-ddd/learning.jpg)
+
+
 - AKKA .NET : https://getakka.net/
 - Repo bootcamp : https://github.com/petabridge/akka-bootcamp
 - Akka vs Orleans :https://github.com/akka/akka-meta/blob/master/ComparisonWithOrleans.md

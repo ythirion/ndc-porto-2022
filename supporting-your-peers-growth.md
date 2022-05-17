@@ -5,6 +5,7 @@ In this talk I’ll explain why `caring for your team` shouldn’t be unique to 
 We will cover the challenges and advantages that you could face, and also share practical tips to help your peers thrive in their work.
 
 ## Career ladder
+![Ladder one path](img/supporting-your-peers-growth/ladder-one-path.jpg)
 - Stop vertical career ladder
     - Good dev vs good manager
     - Single career path

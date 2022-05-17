@@ -50,6 +50,7 @@ A test is not a unit test if:
 
 ## How to test
 ![driver test](img/pyramid-clean-architecture/5.jpg)
+![driver test](img/pyramid-clean-architecture/integration-tests.jpg)
 - Integration Tests	
     - Mock your Core Domain
     - Easier than mocking the DB or mounting containers

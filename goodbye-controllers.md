@@ -112,6 +112,11 @@ public class CreateCustomerEndpoint : Endpoint<CreateCustomerRequest, CustomerRe
 ## Filters available in the future .NET 7
 ![Filters in .NET7 ](img/goodbye-controllers/2.png)
 
+## The necessity of Minimal Apis
+![Why minimal apis](img/goodbye-controllers/3.jpg)
+- Attract new developers
+- Provide **options** to developers: minimal setup of regular setup
+
 ## Resources
 - Source code : https://github.com/Elfocrash/clean-minimal-api
 - Minimal APIs just got all I wanted in .NET 7 video : https://youtu.be/Kt9TiXrwIp4
