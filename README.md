@@ -36,4 +36,3 @@ Here are [Guillaume Faas](https://github.com/Tr00d/) and I notes from the [NCD P
 
 ![NDC Porto](img/logo.png)
 
-## Contributors
