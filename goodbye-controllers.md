@@ -69,7 +69,7 @@ app.Run();
 
 - Example of `Endpoint`
     - It enables to better split our code
-    - Library doucmentation : https://fast-endpoints.com/
+    - Library documentation : https://fast-endpoints.com/
     - Have a better constructor injection logic
         - Pass only what is needed for the given Endpoint
 
@@ -111,6 +111,11 @@ public class CreateCustomerEndpoint : Endpoint<CreateCustomerRequest, CustomerRe
 
 ## Filters available in the future .NET 7
 ![Filters in .NET7 ](img/goodbye-controllers/2.png)
+
+## The necessity of Minimal Apis
+![Why minimal apis](img/goodbye-controllers/3.jpg)
+- Attract new developers
+- Provide **options** to developers: minimal setup of regular setup
 
 ## Resources
 - Source code : https://github.com/Elfocrash/clean-minimal-api
