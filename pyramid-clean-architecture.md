@@ -26,7 +26,8 @@ Clean Architecture and Test Pyramid are two important theories of the software w
 ![Screaming architecture](img/pyramid-clean-architecture/2.jpg)
 
 - `Screaming Architecture`
-    - Clear what is done by your system
+    - Clear what is done by your system.
+    - Components are not grouped by `what they are` but `what they do`.
 
 ## Tests Pyramid
 ![Test pyramid](img/pyramid-clean-architecture/3.jpg)
@@ -60,7 +61,8 @@ A test is not a unit test if:
 ## Conclusion
 ![driving tests](img/pyramid-clean-architecture/8.png)
 
-- `Reduce your tests as much as possible`
+- `Focus on simplicity`
+- `Reduce your tests as much as possible` - avoid sunk cost fallacy
 - Optimize and deduplicate
     - Red tests on application tests
     - Red down ?

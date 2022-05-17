@@ -5,13 +5,15 @@ In this talk I’ll explain why `caring for your team` shouldn’t be unique to 
 We will cover the challenges and advantages that you could face, and also share practical tips to help your peers thrive in their work.
 
 ## Career ladder
-- Stop vertical carreer ladder
+- Stop vertical career ladder
     - Good dev vs good manager
+    - Single career path
+    - You lose the best dev and you get a bad manager
 - Alternative : `Y shaped`
 
 ![Y Shaped ladder](img/supporting-your-peers-growth/1.png)
 
-- Carreer frameworks : https://www.levels.fyi/
+- Career frameworks : https://www.levels.fyi/
 - Managers main focus : 
     - Hire
     - Culture
@@ -21,6 +23,7 @@ We will cover the challenges and advantages that you could face, and also share 
 ## Tech leads main focus
 ![Tech leads](img/supporting-your-peers-growth/2.png)
 - `Help others grow`
+- You can only grow if you are surrounded by `strong` people
 - Why should you even care ?
     - For them
     - For the team
@@ -71,7 +74,7 @@ We will cover the challenges and advantages that you could face, and also share 
         - Review the onboarding process
         - Create an on-boarding to facilitate hiring integration
         - Improve newjoiner satisfaction
-    - Technical Commnunity of Practice
+    - Technical Community of Practice
         - If none it is a good opportunity
         - Create one
     - Internal conferences / talks

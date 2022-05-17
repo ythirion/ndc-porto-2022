@@ -69,7 +69,7 @@ app.Run();
 
 - Example of `Endpoint`
     - It enables to better split our code
-    - Library doucmentation : https://fast-endpoints.com/
+    - Library documentation : https://fast-endpoints.com/
     - Have a better constructor injection logic
         - Pass only what is needed for the given Endpoint
 
